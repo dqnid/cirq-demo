@@ -6,6 +6,7 @@
 ## Usage
 
 $ `pip install cirq`
+
 $ `python3 cirq_h*.py`
 
 ## Script description
